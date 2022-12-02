@@ -1,1 +1,0 @@
-{"mappings":"YAAA,IAAMA,EAAWC,SAASC,cAAc,gBACxCC,QAAQC,IAAI,WAAYJ,E","sources":["src/js/01-color-switcher.js"],"sourcesContent":["const btnStart = document.querySelector('[data-start]');\nconsole.log('btnStart', btnStart);\n"],"names":["$2ec2bf6e450c0fe9$var$btnStart","document","querySelector","console","log"],"version":3,"file":"01-color-switcher.acaff17f.js.map"}
